@@ -4,25 +4,24 @@
 
 # Índice de Contenido
 
-- [**0. Introducción**](#0.Introducción)
-    - [0.1. Grupo e integrantes](#0.1.-grupo-e-integrantes:)
-    - [0.2. Presentación del ejercicio.](#0.2.-presentación-del-ejercicio.)
-    - [0.3. Contexto de la empresa:](#0.3.-contexto-de-la-empresa:)
-    - [0.4. Objetivo de la empresa](#0.4.-objetivo-de-la-empresa)
-    - [0.5. Departamentos](#0.5.-departamentos)
-    - [0.6. Instalaciones/Sedes:](#0.6.-instalaciones/sedes:)
-    - [0.8. Servicios TIC:](#0.8.-servicios-tic:)
-- [**1. Alcance del análisis**](#1.-alcance-del-análisis)
-- [**2. Identificación de los activos**](#2.-identificación-de-los-activos)
-- [**3. Amenazas que pueden afectar a los activos**](#3.-amenazas-que-pueden-afectar-a-los-activos)
-- [**4. Identificar vulnerabilidades y salvaguardas**](#4.-identificar-vulnerabilidades-y-salvaguardas)
-    - [4.1 Salvaguardas Clave (Factores de Reducción de Riesgo)](#4.1-salvaguardas-clave-\(factores-de-reducción-de-riesgo\))
-    - [4.2 Vulnerabilidades Críticas (Factores de Penalización de Riesgo)](#4.2-vulnerabilidades-críticas-\(factores-de-penalización-de-riesgo\))
-- [**5. Evaluación y cálculo del riesgo**](#5.-evaluación-y-cálculo-del-riesgo)
-- [**6. Medidas complementarias que permitan materializar la protección de los activos.**](#6.-medidas-complementarias-que-permitan-materializar-la-protección-de-los-activos.)
-- [**7. Conclusión**](#7.-conclusión)
-- [**8. Bibliografía/Webgrafía**](#8.-bibliografía/webgrafía)
-# 
+- [**0. Introducción**](#0-introduccion)
+    - [0.1. Grupo e integrantes](#01-grupo-e-integrantes)
+    - [0.2. Presentación del ejercicio.](#02-presentacion-del-ejercicio)
+    - [0.3. Contexto de la empresa:](#03-contexto-de-la-empresa)
+    - [0.4. Objetivo de la empresa](#04-objetivo-de-la-empresa)
+    - [0.5. Departamentos](#05-departamentos)
+    - [0.6. Instalaciones/Sedes:](#06-instalaciones-sedes)
+    - [0.8. Servicios TIC:](#08-servicios-tic)
+- [**1. Alcance del análisis**](#1-alcance-del-analisis)
+- [**2. Identificación de los activos**](#2-identificacion-de-los-activos)
+- [**3. Amenazas que pueden afectar a los activos**](#3-amenazas-que-pueden-afectar-a-los-activos)
+- [**4. Identificar vulnerabilidades y salvaguardas**](#4-identificar-vulnerabilidades-y-salvaguardas)
+    - [4.1 Salvaguardas Clave (Factores de Reducción de Riesgo)](#41-salvaguardas-clave-factores-de-reduccion-de-riesgo)
+    - [4.2 Vulnerabilidades Críticas (Factores de Penalización de Riesgo)](#42-vulnerabilidades-criticas-factores-de-penalizacion-de-riesgo)
+- [**5. Evaluación y cálculo del riesgo**](#5-evaluacion-y-calculo-del-riesgo)
+- [**6. Medidas complementarias que permitan materializar la protección de los activos.**](#6-medidas-complementarias-que-permitan-materializar-la-proteccion-de-los-activos)
+- [**7. Conclusión**](#7-conclusion)
+- [**8. Bibliografía/Webgrafía**](#8-bibliografiawebgrafia)
 
 # 0.Introducción
 
